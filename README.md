@@ -1,4 +1,4 @@
-# Project:- COMP6200 Data Science Portfolio 
+# Data Science Portfolio 
 
 
 
